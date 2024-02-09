@@ -1,6 +1,6 @@
-Hi, I’m @Orthopyroxene
-I’m interested in geology, geospatial science and GIS
-I’m currently learning C# and Python
+Hi, I’m @Orthopyroxene.
+I’m interested in geology, geospatial science and GIS.
+I’m currently learning C# and Python.
 
 
 <!---
