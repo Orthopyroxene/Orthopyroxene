@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Orthopyroxene
-- 👀 I’m interested in geology, geospatial science and GIS
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate...
-- 📫 How to reach me ...
+Hi, I’m @Orthopyroxene
+I’m interested in geology, geospatial science and GIS
+I’m currently learning C# and Python
+
 
 <!---
 Orthopyroxene/Orthopyroxene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
