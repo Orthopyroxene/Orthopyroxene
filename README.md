@@ -1,5 +1,5 @@
 Hi, I’m @Orthopyroxene.
-I’m interested in geology, geospatial science and GIS.
+I’m a Geologist interested in geospatial science, GIS, and machine learning.
 I’m currently learning C# and Python.
 
 
